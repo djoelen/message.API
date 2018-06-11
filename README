@@ -1,0 +1,6 @@
+Use visual studio to build and run project.
+
+If you want to test the API use Postman to make the API calls.
+All API calls are made with the url http://localhost:64618/api/messages
+
+To run the tests use the built in test runner in Visual Studio
