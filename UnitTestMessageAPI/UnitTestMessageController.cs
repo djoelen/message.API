@@ -8,12 +8,12 @@ namespace UnitTestMessageAPI
 {
 
     [TestClass]
-    public class UnitTestMEssageController
+    public class UnitTestMessageController
     {
 
         private MessageController _messageController;
 
-        public UnitTestMEssageController()
+        public UnitTestMessageController()
         {
             _messageController = new MessageController();
         }
